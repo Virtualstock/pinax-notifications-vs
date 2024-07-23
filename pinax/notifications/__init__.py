@@ -1,3 +1,1 @@
-import pkg_resources
-
-__version__ = pkg_resources.get_distribution("pinax-notifications").version
+__version__ = "6.0.2"
